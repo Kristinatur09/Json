@@ -1,7 +1,9 @@
-{  "bug report":{
+{  
+  "bug report":{
   id:"1",
   Description:"error 404",
   Steps to reproduce:"open the homepage",
   Actual result:"google page opens",
   Expected result:"the error page opens"
+ }
 }
